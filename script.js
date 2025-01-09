@@ -1,4 +1,4 @@
-const accessKey = 'YOUR_API_KEY';
+const accessKey = 'YOUR_unsplash_API_KEY';
 
 const formEl = document.querySelector("form");
 const inputEl = document.getElementById("search-input");
